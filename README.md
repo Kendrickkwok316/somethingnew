@@ -6,5 +6,5 @@ npm install react --save
 npm install react-dom --save
 npm install react-floating-action-button --save
 npm install reaviz --save //chart
-npm install react-helmet --save
+npm install react-helmet --save //
 ```
